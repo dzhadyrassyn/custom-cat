@@ -1,9 +1,7 @@
 # custom-cat
 
 ```
-./gradlew clean build
+./gradlew clean installDist
 
-chmod +x cccat`
-
-./cccat test1.txt
+./wc.sh
 ```
