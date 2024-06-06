@@ -5,5 +5,5 @@
 
 chmod +x cccat`
 
-./cccat
+./cccat test1.txt
 ```
